@@ -13,10 +13,10 @@ Site de página única para registrar a retirada e o retorno do carro da empresa
 
 ## Como usar
 
-1. Abra o arquivo `controle-carro.html` no navegador.
-2. Para retirar o carro, preencha **nome** e **setor**, assine no campo indicado e toque em **Registrar retirada**.
-3. Enquanto o carro estiver em uso, a tela mostra quem está com ele.
-4. Ao devolver, toque em **Registrar retorno**. O carro fica livre para o próximo condutor.
+1. Abra o arquivo `index.html` no navegador.
+3. Para retirar o carro, preencha **nome** e **setor**, assine no campo indicado e toque em **Registrar retirada**.
+4. Enquanto o carro estiver em uso, a tela mostra quem está com ele.
+5. Ao devolver, toque em **Registrar retorno**. O carro fica livre para o próximo condutor.
 
 Nome, setor e assinatura são obrigatórios para registrar a retirada.
 
